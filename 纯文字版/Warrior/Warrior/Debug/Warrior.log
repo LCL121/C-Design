@@ -1,0 +1,28 @@
+﻿  main.cpp
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(90): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(127): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(155): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(187): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(190): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(211): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(222): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(225): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(241): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(265): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(276): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(279): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(295): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(298): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(319): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(356): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(359): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(380): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(383): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(411): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(420): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(449): warning C4018: “<”: 有符号/无符号不匹配
+f:\代码\c++\大二上学期\课程设计\纯文字版\warrior\warrior\main.cpp(490): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Warrior.vcxproj -> F:\代码\C++\大二上学期\课程设计\纯文字版\Warrior\Debug\Warrior.exe
